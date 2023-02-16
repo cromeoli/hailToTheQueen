@@ -22,7 +22,7 @@
   -  .TIFF para impresión
 
 ### Video
-  - Video de referencia para el estilo artístico del videojuego (Patapon)
+  - Video de referencia para el estilo artístico del videojuego (Patapon) en formato estándar web .mp4
 
 ### Personaje
   - Personaje exportado en los formatos siguientes:
