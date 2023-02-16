@@ -32,7 +32,7 @@
 
 ## Créditos
 
-Sonido Evil-Knight-Laugh.wav con licencia CC0 1.0 Universal (CC0 1.0)
-Music by GioeleFazzeri from Pixabay con licencia CC0 1.0 Universal (CC0 1.0) sin necesidad de atribución (https://pixabay.com/es/music/search/medieval%20tension/)
-Fondo estrellado: https://www.freepik.com/free-vector/abstract-splashed-watercolor-textured-background_2632737.htm#query=purple%20starry%20sky&position=2&from_view=search&track=ais" Image by rawpixel.com on Freepik
-Textura de ladrillos por upklyak en Freepik: https://www.freepik.com/free-vector/game-textures-brick-wall-building-facade-with-red-green-blue-stone-blocks-vector-cartoon-seamless-patterns-brickwork-vintage-masonry-house-exterior-pavement_25072692.htm#query=vector%20brick%20texture&position=0&from_view=search&track=ais 
+- Sonido Evil-Knight-Laugh.wav con licencia CC0 1.0 Universal (CC0 1.0)
+- Music by GioeleFazzeri from Pixabay con licencia CC0 1.0 Universal (CC0 1.0) sin necesidad de atribución (https://pixabay.com/es/music/search/medieval%20tension/)
+- Fondo estrellado: https://www.freepik.com/free-vector/abstract-splashed-watercolor-textured-background_2632737.htm#query=purple%20starry%20sky&position=2&from_view=search&track=ais" Image by rawpixel.com on Freepik
+- Textura de ladrillos por upklyak en Freepik: https://www.freepik.com/free-vector/game-textures-brick-wall-building-facade-with-red-green-blue-stone-blocks-vector-cartoon-seamless-patterns-brickwork-vintage-masonry-house-exterior-pavement_25072692.htm#query=vector%20brick%20texture&position=0&from_view=search&track=ais 
